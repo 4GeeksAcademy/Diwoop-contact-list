@@ -1,0 +1,33 @@
+.contactoImagen {
+    width: 150px;
+    height: 150px;
+}
+.list-group{
+    background-color: rgb(245, 233, 173);
+    border-radius: 20px;
+    border: 1px orange solid;
+}
+.contact{
+    border-bottom: rgb(34, 34, 33) 1px transparent;
+}
+.btn-custom{
+    background-color: bisque;
+    border: 1px rgb(255, 179, 86) solid;
+    padding: 10px;
+    margin: 10px;
+    color: black;
+}
+.btn-custom:hover{
+    background-color: rgb(252, 236, 216);
+    border: 1px rgb(255, 179, 86) solid;
+}
+.formulario{
+    background-color: rgb(245, 233, 173);
+    border-radius: 20px;
+    border: 1px rgb(255, 211, 130) solid;
+    padding: 10px;
+
+}
+.formulario a{
+    text-decoration: none;
+}
